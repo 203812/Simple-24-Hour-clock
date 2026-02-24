@@ -18,4 +18,4 @@ A modern digital clock built with Python and Tkinter.
 ## Run the Application
 
 ```bash
-python clock
+python clock.py
